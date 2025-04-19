@@ -29,7 +29,9 @@ UNIDIG is a powerful and automated reconnaissance script written in Bash, design
 Make sure dnscan is cloned and located at ~/tools/dnscan/dnscan.py or edit the script with it's location
 
   🧪 Usage:
+  
   chmod +x unidig.sh
+  
 ./unidig.sh [options]
 
 ✅ Options:
