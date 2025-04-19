@@ -27,7 +27,7 @@
 Ensure the following tools are installed and accessible in your `$PATH`:
 
 ```bash
-subfinder assetfinder amass ffuf python3 httpx dirsearch waybackurls katana anew jq curl dnsx
+subfinder assetfinder amass  python3 anew jq curl dnsx
 ```
 
 Example install (partial):
